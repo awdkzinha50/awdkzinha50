@@ -7,7 +7,7 @@
 
 💻 Atualmente estudando **Responsividade, Java e linguagens front-end**  
 🎓 Graduanda em **Ciência da Computação**  
-🛠️ Desenvolvendo projetos focados em **interface, otimização de software e hardware organização pessoal**  
+🛠️ Desenvolvendo projetos focados em **interface, otimização de software, hardware e organização pessoal**  
 📫 Contato: [oliveiraanna5010@gmail.com] | [Anna K D de Oliveira](https://www.linkedin.com/in/anna-k-d-de-oliveira-2424b4330/)
 
 ---
