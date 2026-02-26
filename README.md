@@ -13,7 +13,7 @@
 
 ---
 
-## 🌱 Sobre mim
+## Sobre mim
 
 Atualmente estou cursando **Ciência da Computação na Universidade Estadual da Paraíba**. Tenho estudado:
 
