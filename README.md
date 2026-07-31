@@ -18,24 +18,18 @@
 Atualmente estou cursando **Ciência da Computação na Universidade Estadual da Paraíba**. Tenho estudado:
 
 ✅ Desenvolvimento de sistemas interligados com **responsividade** usando **Python (Django)** e **linguagens front-end**  
-✅ Estrutura da **linguagem C**  
+✅ Estrutura da **linguagem Java**  
 ✅ Análise de **construção e compatibilidade de hardwares**  
 ✅ Aprimoramento de sistemas através da manipulação de **terminais de sistemas operacionais**
 
 Busco construir projetos que **unam funcionalidade e estética**, tornando interfaces amigáveis e otimizadas.
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - **Front-End:** HTML, CSS, JavaScript
 - **Back-End:** Java
 - **Outros:** C, Python, Prolog
-
----
-
-## 📈 Estatísticas
-
-![awdzkzinha50's GitHub stats](https://github-readme-stats.vercel.app/api?username=awdkzinha50&show_icons=true&theme=default)
 
 ---
 
